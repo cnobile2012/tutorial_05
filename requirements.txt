@@ -1,0 +1,6 @@
+# PIP requirements
+#
+
+ipython
+
+# Other packages below
