@@ -4,3 +4,5 @@
 ipython
 
 # Other packages below
+numpy
+nose
