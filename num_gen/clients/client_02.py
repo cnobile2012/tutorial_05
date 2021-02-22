@@ -1,15 +1,12 @@
 #
-# project_name/clients/client_02.py
+# num_gen/clients/client_02.py
 #
 
+from .client import BaseClient
+from num_gen.servers import Server02
 
-class Client:
-    _server_data = ''
+
+class Client(BaseClient):
 
     def __init__(self):
-        pass
-
-    def get_data(self):
-        
-
-        self._server_data = data
+        super().__init__(Server02._DFLT_SM_NAME)
