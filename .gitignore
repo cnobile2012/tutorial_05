@@ -6,7 +6,6 @@
 #*.txt
 #*.pdf
 #.~lock.*
-old
 __pycache__
 
 # C extensions
