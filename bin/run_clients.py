@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Get data from all servers.
+# run_clients.py: Get data from all servers.
 #
 
 import os

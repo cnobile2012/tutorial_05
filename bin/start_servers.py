@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Start all the servers.
+# start_servers.py: Start all the servers.
 #
 
 import os
